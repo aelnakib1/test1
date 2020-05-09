@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+#test for class
+.DS_Store
+desktop.ini
 
 # Distribution / packaging
 .Python
